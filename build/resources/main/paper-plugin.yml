@@ -1,0 +1,4 @@
+name: ProjectXCombat
+version: '1.0-SNAPSHOT'
+main: com.projectX.execute.projectXCombat.ProjectXCombat
+api-version: '1.20'
